@@ -1,0 +1,1 @@
+Comando 1. db.new.find()
